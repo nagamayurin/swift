@@ -1,3 +1,5 @@
 corpus
 stem
 stopwords
+PorterStemmer
+WordNetLemmatizer
