@@ -34,12 +34,12 @@ from gtts import gTTS
 
 #st.sidebar.image(image2, caption=None, width=150, use_column_width=False, clamp=True, channels='RGB')
 
-from spacy import displacy
-HTML_WRAPPER = """div style="overflow-x: auto; border: 1px solid #e6e9ef; border-radius: 0.25rem; padding: 1rem">{}</div>"""
+#from spacy import displacy
+#HTML_WRAPPER = """div style="overflow-x: auto; border: 1px solid #e6e9ef; border-radius: 0.25rem; padding: 1rem">{}</div>"""
 #HTML_WRAPPER = """<div style="overflow-x: auto; border: 1px solid #e6e9ef; border-radius: 0.25rem; padding: 1rem">{}</div>"""
 
 #summary pkgs
-from gensim.summarization import summarize
+#from gensim.summarization import summarize
 
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
