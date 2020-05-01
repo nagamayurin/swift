@@ -1,4 +1,3 @@
-stem
 stopwords
 PorterStemmer
 WordNetLemmatizer
