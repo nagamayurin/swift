@@ -1,1 +1,1 @@
-Summary and Entity checker Streamlit App
+Swift summarator files
