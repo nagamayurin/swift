@@ -10,7 +10,7 @@ gTTS==2.1.1
 sumy==0.8.1
 regex==2020.1.8
 beautifulsoup4==4.6.0
-urllib3==1.22
+urllib3==1.26.5
 requests==2.18.4
 requests-file==1.4.3
 nltk
